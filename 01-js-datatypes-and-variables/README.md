@@ -6,7 +6,7 @@
 
 &emsp; ✅ Identify JS Data Types
 
-&emsp; ✅ Define variables using let vs const 
+&emsp; ✅ Define variables using var vs let vs const 
 
 &emsp; ✅ Practice conditional statements 
 

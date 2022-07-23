@@ -4,9 +4,9 @@
 
     // console.log("Hey there!");
 
-    // let x = 2;
+    // var x = 2;
 
-    // let y = 2;
+    // var y = 2;
 
     // console.log(x + y);
 
@@ -48,11 +48,21 @@
 
     // 💡 what are main differences / use cases?
 
+    // var
+
+        // var x = 'two';
+
+        // var x = 3;
+
+        // console.log(x, typeof x);
+
     // let
 
         // let x = 10;
 
         // let x = 5;
+
+        // console.log(x);
 
     // const
 
@@ -62,7 +72,23 @@
         
         // x = 5;
 
+        // console.log(x);
+
 // ✅ Conditional Statements
+
+    // Truthy / Falsy
+
+        // true / false => boolean
+
+        // truthy / falsy values resolve to true / false
+
+        // const x = true;
+
+        // if (x) {
+        //     console.log("x is truthy");
+        // } else {
+        //     console.log("x is falsy");
+        // }
 
     // if...else
 
@@ -98,7 +124,7 @@ console.log("🚨 Comment Out Lecture Code Above Before Starting 🚨");
 console.log("💡 Use console.log() To Check Answers 💡");
 console.log("------------------------");
 
-// 🚧 Break Out Activity 1: Using let vs. const
+// 🚧 Break Out Activity 1: Using var vs. let vs. const
 
 // Uncomment the code below to properly declare and assign a value to "x" using "const"
 
